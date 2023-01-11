@@ -1,2 +1,2 @@
 # Quiz-App
-It is the app that consists of many questions. It's just like MCQ's
+It is the app that consists of many questions. It's just like MCQ's. It is created using Kotlin.
